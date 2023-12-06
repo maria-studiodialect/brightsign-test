@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2023-12-06T11:14:04.674",
+      "lastModifiedTime": "2023-12-06T11:33:28.029",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 0,
@@ -56,10 +56,10 @@
         "name": "autoplay-GateZeroTest.json",
         "hash": {
           "method": "SHA1",
-          "hex": "a200dbaa6d4bfc312f74f18805d2087acf5fdd0f"
+          "hex": "63a7fbb8c4f40b649097c68b8db7c4e1f66494a0"
         },
-        "size": 21325,
-        "link": "https://brightsign.netlify.app/brightsign/pool/0/f/sha1-a200dbaa6d4bfc312f74f18805d2087acf5fdd0f",
+        "size": 22375,
+        "link": "https://brightsign.netlify.app/brightsign/pool/a/0/sha1-63a7fbb8c4f40b649097c68b8db7c4e1f66494a0",
         "headers": null,
         "chargeable": false
       },
@@ -67,10 +67,10 @@
         "name": "GateZeroTest.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "90700e3f11e622a479cff2c78a26f2c63166f98b"
+          "hex": "4f630c05148e1fcd258681a6841ebbf015f1eb46"
         },
-        "size": 22972,
-        "link": "https://brightsign.netlify.app/brightsign/pool/8/b/sha1-90700e3f11e622a479cff2c78a26f2c63166f98b",
+        "size": 24905,
+        "link": "https://brightsign.netlify.app/brightsign/pool/4/6/sha1-4f630c05148e1fcd258681a6841ebbf015f1eb46",
         "headers": null,
         "chargeable": false
       },
@@ -97,6 +97,18 @@
         "headers": null,
         "chargeable": false,
         "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=48000|AD=00002f2a|VP=1|VC=H264|W=1920|H=1080|VD=00002f01|CD=0|VFR=30.000832|D=00002f2a|FT=00000000"
+      },
+      {
+        "name": "BS Cityscape.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "802f43e2a784763bd7840313afd2208d26319e3b"
+        },
+        "size": 2193907,
+        "link": "https://brightsign.netlify.app/brightsign/pool/3/b/sha1-802f43e2a784763bd7840313afd2208d26319e3b",
+        "headers": null,
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1734|H=994|VD=000017c9|CD=0|VFR=59.944160|D=000017ca|FT=00000000"
       },
       {
         "name": "autoplugins.brs",
