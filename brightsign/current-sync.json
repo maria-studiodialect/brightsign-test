@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "client": {
+      "lastModifiedTime": "2023-12-06T11:14:04.674",
+      "enableSerialDebugging": false,
+      "enableSystemLogDebugging": false,
+      "publishedDataSizeLimitMB": 0,
+      "dynamicDataSizeLimitMB": 0,
+      "htmlDataSizeLimitMB": 0,
+      "htmlLocalStorageSizeLimitMB": 0,
+      "htmlIndexedDBSizeLimitMB": 0,
+      "publishedDataSizeLimitPercentage": 0,
+      "dynamicDataSizeLimitPercentage": 0,
+      "htmlDataSizeLimitPercentage": 0,
+      "htmlLocalStorageSizeLimitPercentage": 0,
+      "htmlIndexedDBSizeLimitPercentage": 0,
+      "limitStorageSpace": false,
+      "playbackLoggingEnabled": false,
+      "eventLoggingEnabled": false,
+      "diagnosticLoggingEnabled": false,
+      "stateLoggingEnabled": false,
+      "variableLoggingEnabled": false,
+      "uploadLogFilesAtBoot": false,
+      "uploadLogFilesAtSpecificTime": false,
+      "uploadLogFilesTime": 0,
+      "base": "https://brightsign.netlify.app/brightsign",
+      "next": "/current-sync.json",
+      "event": "EVENT",
+      "error": "ERROR",
+      "deviceerror": "DEVICEERROR",
+      "uploadusage": "UPLOADUSAGE",
+      "getfile": "GETFILE",
+      "uploadLogs": "",
+      "uploadSnapshots": "",
+      "timeBetweenNetConnects": 900,
+      "contentDownloadsRestricted": false,
+      "contentDownloadRangeStart": 0,
+      "contentDownloadRangeLength": 0,
+      "deviceScreenShotsEnabled": false,
+      "deviceScreenShotsInterval": 900,
+      "deviceScreenShotsCountLimit": 5,
+      "deviceScreenShotsQuality": 50,
+      "deviceScreenShotsOrientation": "Landscape"
+    },
+    "server": {
+      "account": "ACCOUNT",
+      "user": "",
+      "password": "",
+      "enableBasicAuthentication": false,
+      "group": "GROUPNAME"
+    }
+  },
+  "files": {
+    "download": [
+      {
+        "name": "autoplay-GateZeroTest.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "a200dbaa6d4bfc312f74f18805d2087acf5fdd0f"
+        },
+        "size": 21325,
+        "link": "https://brightsign.netlify.app/brightsign/pool/0/f/sha1-a200dbaa6d4bfc312f74f18805d2087acf5fdd0f",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "GateZeroTest.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "90700e3f11e622a479cff2c78a26f2c63166f98b"
+        },
+        "size": 22972,
+        "link": "https://brightsign.netlify.app/brightsign/pool/8/b/sha1-90700e3f11e622a479cff2c78a26f2c63166f98b",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "2023-12-05 13-21-34.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "3d09b2b140651ff576462b547b490b0728716e36"
+        },
+        "size": 4677736,
+        "link": "https://brightsign.netlify.app/brightsign/pool/3/6/sha1-3d09b2b140651ff576462b547b490b0728716e36",
+        "headers": null,
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=48000|AD=000039c0|VP=1|VC=H264|W=1280|H=720|VD=00003a12|CD=0|VFR=29.934078|D=00003a13|FT=00000000"
+      },
+      {
+        "name": "gate0_render_2_env.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "30500aef6dc67bf905f149936d6c3cf88aec2fa3"
+        },
+        "size": 31768641,
+        "link": "https://brightsign.netlify.app/brightsign/pool/a/3/sha1-30500aef6dc67bf905f149936d6c3cf88aec2fa3",
+        "headers": null,
+        "chargeable": false,
+        "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=48000|AD=00002f2a|VP=1|VC=H264|W=1920|H=1080|VD=00002f01|CD=0|VFR=30.000832|D=00002f2a|FT=00000000"
+      },
+      {
+        "name": "autoplugins.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
+        },
+        "size": 142,
+        "link": "https://brightsign.netlify.app/brightsign/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autorun.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "c88899213c5212b2071a21f5a44c7dce3458a8a7"
+        },
+        "size": 1145369,
+        "link": "https://brightsign.netlify.app/brightsign/pool/a/7/sha1-c88899213c5212b2071a21f5a44c7dce3458a8a7",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autoschedule.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "bec93ee108c51bd9061946629667ca44c3994d4a"
+        },
+        "size": 900,
+        "link": "https://brightsign.netlify.app/brightsign/pool/4/a/sha1-bec93ee108c51bd9061946629667ca44c3994d4a",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "featureMinRevs.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
+        },
+        "size": 72,
+        "link": "https://brightsign.netlify.app/brightsign/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "PartnerProducts.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "07d3764e1867e17d248d5dc0b5888cad5651dcdc"
+        },
+        "size": 63,
+        "link": "https://brightsign.netlify.app/brightsign/pool/d/c/sha1-07d3764e1867e17d248d5dc0b5888cad5651dcdc",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "5116cecdc91ee4cf9ead58cad91de88c67a97fe4"
+        },
+        "size": 24564,
+        "link": "https://brightsign.netlify.app/brightsign/pool/e/4/sha1-5116cecdc91ee4cf9ead58cad91de88c67a97fe4",
+        "headers": null,
+        "chargeable": false
+      }
+    ],
+    "ignore": [
+      {
+        "pattern": "*"
+      }
+    ],
+    "delete": [
+      {
+        "pattern": "*.brs"
+      },
+      {
+        "pattern": "*.rok"
+      },
+      {
+        "pattern": "*.bsfw"
+      }
+    ]
+  }
+}
