@@ -1,0 +1,33 @@
+{
+  "schedulePresentations": {
+    "schedulePresentationsById": {
+      "a62b32f9-c399-4000-a6ff-ec036d138000": {
+        "id": "a62b32f9-c399-4000-a6ff-ec036d138000",
+        "presentationLocator": {
+          "name": "HTML_Pres.bpfx",
+          "path": "/Users/marianery/Documents/",
+          "networkId": 0,
+          "location": "Local",
+          "assetType": "Project",
+          "scope": "4e20404e507c3f67"
+        },
+        "dateTime": "2023-12-06T00:00:00.000Z",
+        "duration": 1440,
+        "allDayEveryDay": true,
+        "recurrence": false,
+        "recurrencePattern": "AllDays",
+        "recurrencePatternDaysOfWeek": 127,
+        "recurrenceStartDate": "1970-01-01T00:00:00.000Z",
+        "recurrenceGoesForever": true,
+        "recurrenceEndDate": "2100-12-31T23:59:59.999Z",
+        "interruption": false
+      }
+    },
+    "allSchedulePresentations": [
+      "a62b32f9-c399-4000-a6ff-ec036d138000"
+    ]
+  },
+  "modifiedTime": {
+    "lastModifiedTime": "2023-12-06T15:59:55.075Z"
+  }
+}
