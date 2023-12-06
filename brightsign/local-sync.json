@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2023-12-06T16:06:17.104",
+      "lastModifiedTime": "2023-12-06T16:59:26.862",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 0,
@@ -29,22 +29,52 @@
   "files": {
     "download": [
       {
-        "name": "autoplay-HTML_Pres.json",
+        "name": "autoplay-GateZeroTest.json",
         "hash": {
           "method": "SHA1",
-          "hex": "035f31a9eda2349846eaa87fddb8b9b9553964ba"
+          "hex": "63a7fbb8c4f40b649097c68b8db7c4e1f66494a0"
         },
-        "size": 20270,
-        "link": "pool/b/a/sha1-035f31a9eda2349846eaa87fddb8b9b9553964ba"
+        "size": 22375,
+        "link": "pool/a/0/sha1-63a7fbb8c4f40b649097c68b8db7c4e1f66494a0"
       },
       {
-        "name": "HTML_Pres.bml",
+        "name": "GateZeroTest.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "d874f07ce0badde0ea3a5eddf28065b553d92c74"
+          "hex": "4f630c05148e1fcd258681a6841ebbf015f1eb46"
         },
-        "size": 22242,
-        "link": "pool/7/4/sha1-d874f07ce0badde0ea3a5eddf28065b553d92c74"
+        "size": 24905,
+        "link": "pool/4/6/sha1-4f630c05148e1fcd258681a6841ebbf015f1eb46"
+      },
+      {
+        "name": "2023-12-05 13-21-34.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "3d09b2b140651ff576462b547b490b0728716e36"
+        },
+        "size": 4677736,
+        "link": "pool/3/6/sha1-3d09b2b140651ff576462b547b490b0728716e36",
+        "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=48000|AD=000039c0|VP=1|VC=H264|W=1280|H=720|VD=00003a12|CD=0|VFR=29.934078|D=00003a13|FT=00000000"
+      },
+      {
+        "name": "gate0_render_2_env.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "30500aef6dc67bf905f149936d6c3cf88aec2fa3"
+        },
+        "size": 31768641,
+        "link": "pool/a/3/sha1-30500aef6dc67bf905f149936d6c3cf88aec2fa3",
+        "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=48000|AD=00002f2a|VP=1|VC=H264|W=1920|H=1080|VD=00002f01|CD=0|VFR=30.000832|D=00002f2a|FT=00000000"
+      },
+      {
+        "name": "BS Cityscape.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "802f43e2a784763bd7840313afd2208d26319e3b"
+        },
+        "size": 2193907,
+        "link": "pool/3/b/sha1-802f43e2a784763bd7840313afd2208d26319e3b",
+        "probe": "2|TT=MP4|IX=Y|VP=1|VC=H264|W=1734|H=994|VD=000017c9|CD=0|VFR=59.944160|D=000017ca|FT=00000000"
       },
       {
         "name": "autoplugins.brs",
@@ -70,10 +100,10 @@
         "name": "autoschedule.json",
         "hash": {
           "method": "SHA1",
-          "hex": "ebf90e63c2c40c65e9c0979bc8db5ce3307f736d"
+          "hex": "bec93ee108c51bd9061946629667ca44c3994d4a"
         },
-        "size": 888,
-        "link": "pool/6/d/sha1-ebf90e63c2c40c65e9c0979bc8db5ce3307f736d"
+        "size": 900,
+        "link": "pool/4/a/sha1-bec93ee108c51bd9061946629667ca44c3994d4a"
       },
       {
         "name": "featureMinRevs.json",

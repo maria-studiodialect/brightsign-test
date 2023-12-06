@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "client": {
+      "lastModifiedTime": "2023-12-06T16:23:44.784",
+      "enableSerialDebugging": false,
+      "enableSystemLogDebugging": false,
+      "publishedDataSizeLimitMB": 0,
+      "dynamicDataSizeLimitMB": 0,
+      "htmlDataSizeLimitMB": 0,
+      "htmlLocalStorageSizeLimitMB": 0,
+      "htmlIndexedDBSizeLimitMB": 0,
+      "publishedDataSizeLimitPercentage": 0,
+      "dynamicDataSizeLimitPercentage": 0,
+      "htmlDataSizeLimitPercentage": 0,
+      "htmlLocalStorageSizeLimitPercentage": 0,
+      "htmlIndexedDBSizeLimitPercentage": 0,
+      "limitStorageSpace": false,
+      "playbackLoggingEnabled": false,
+      "eventLoggingEnabled": false,
+      "diagnosticLoggingEnabled": false,
+      "stateLoggingEnabled": false,
+      "variableLoggingEnabled": false,
+      "uploadLogFilesAtBoot": false,
+      "uploadLogFilesAtSpecificTime": false,
+      "uploadLogFilesTime": 0,
+      "base": "https://brightsign.netlify.app/brightsign",
+      "next": "/current-sync.json",
+      "event": "EVENT",
+      "error": "ERROR",
+      "deviceerror": "DEVICEERROR",
+      "uploadusage": "UPLOADUSAGE",
+      "getfile": "GETFILE",
+      "uploadLogs": "",
+      "uploadSnapshots": "",
+      "timeBetweenNetConnects": 300,
+      "contentDownloadsRestricted": false,
+      "contentDownloadRangeStart": 0,
+      "contentDownloadRangeLength": 0,
+      "deviceScreenShotsEnabled": false,
+      "deviceScreenShotsInterval": 900,
+      "deviceScreenShotsCountLimit": 5,
+      "deviceScreenShotsQuality": 50,
+      "deviceScreenShotsOrientation": "Landscape"
+    },
+    "server": {
+      "account": "ACCOUNT",
+      "user": "",
+      "password": "",
+      "enableBasicAuthentication": false,
+      "group": "GROUPNAME"
+    }
+  },
+  "files": {
+    "download": [
+      {
+        "name": "autoplay-HTML_Pres.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "035f31a9eda2349846eaa87fddb8b9b9553964ba"
+        },
+        "size": 20270,
+        "link": "https://brightsign.netlify.app/brightsign/pool/b/a/sha1-035f31a9eda2349846eaa87fddb8b9b9553964ba",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "HTML_Pres.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "1423fd9013df646be4c49aff07a29c269d29d1cf"
+        },
+        "size": 22242,
+        "link": "https://brightsign.netlify.app/brightsign/pool/c/f/sha1-1423fd9013df646be4c49aff07a29c269d29d1cf",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "autoplugins.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
+        },
+        "size": 142,
+        "link": "https://brightsign.netlify.app/brightsign/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autorun.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "c88899213c5212b2071a21f5a44c7dce3458a8a7"
+        },
+        "size": 1145369,
+        "link": "https://brightsign.netlify.app/brightsign/pool/a/7/sha1-c88899213c5212b2071a21f5a44c7dce3458a8a7",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autoschedule.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "ebf90e63c2c40c65e9c0979bc8db5ce3307f736d"
+        },
+        "size": 888,
+        "link": "https://brightsign.netlify.app/brightsign/pool/6/d/sha1-ebf90e63c2c40c65e9c0979bc8db5ce3307f736d",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "featureMinRevs.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
+        },
+        "size": 72,
+        "link": "https://brightsign.netlify.app/brightsign/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "PartnerProducts.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "07d3764e1867e17d248d5dc0b5888cad5651dcdc"
+        },
+        "size": 63,
+        "link": "https://brightsign.netlify.app/brightsign/pool/d/c/sha1-07d3764e1867e17d248d5dc0b5888cad5651dcdc",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "5116cecdc91ee4cf9ead58cad91de88c67a97fe4"
+        },
+        "size": 24564,
+        "link": "https://brightsign.netlify.app/brightsign/pool/e/4/sha1-5116cecdc91ee4cf9ead58cad91de88c67a97fe4",
+        "headers": null,
+        "chargeable": false
+      }
+    ],
+    "ignore": [
+      {
+        "pattern": "*"
+      }
+    ],
+    "delete": [
+      {
+        "pattern": "*.brs"
+      },
+      {
+        "pattern": "*.rok"
+      },
+      {
+        "pattern": "*.bsfw"
+      }
+    ]
+  }
+}
