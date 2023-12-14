@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version = "2.0" xmlns:media = "http://search.yahoo.com/mrss/">
-    <channel>
-        <title>Gate Zero Feed</title>
-        <link></link>
-        <description>Gate Zero Media RSS</description>
-        <item>
-            <title>Title For Image 1</title>
-            <description>Sample Media RSS Item 1</description>
-            <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/01-example.jpeg"/>
-        </item>
-        <item>
-            <title>Title For Image 2</title>
-            <description>Sample Media RSS Item 2</description>
-            <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/02-example.jpeg"/>
-        </item>
-    </channel>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+    <title>Batch Custom Video MRSS template for BrightSign Players</title>
+    <link>https://brightsign.netlify.app/xml/media.xml</link>
+    <generator>Video MRSS Generation Batch File</generator>
+    <ttl>5</ttl>
+    <item>
+        <title>video1.mpg</title>
+        <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
+        <link>https://brightsign.netlify.app/flyOver_720.mp4</link>
+        <description>video1.mpg</description>
+        <guid isPermalink="false">video1187</guid>
+        <media:content url="https://brightsign.netlify.app/flyOver_720.mp4" fileSize="22281816" type="video/mp4" medium="video"/>
+    </item>
+    <item>
+        <title>video2.mpg</title>
+        <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
+        <link>https://brightsign.netlify.app/gate0_render_2_env.mp4</link>
+        <description>video2.mpg</description>
+        <guid isPermalink="false">video2187</guid>
+        <media:content url="https://brightsign.netlify.app/gate0_render_2_env.mp4" fileSize="31768641" type="video/mp4" medium="video"/>
+    </item>
+</channel>
 </rss>
