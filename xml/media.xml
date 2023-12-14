@@ -9,7 +9,7 @@
         <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
         <link>https://brightsign.netlify.app/flyOver_720.mp4</link>
         <description>video1.mpg</description>
-        <guid isPermalink="false">flyOver_720</guid>
+        <guid isPermalink="false">dialect-flyOver_720</guid>
         <media:content url="https://brightsign.netlify.app/flyOver_720.mp4" fileSize="22281816" type="video/mp4" medium="video"/>
     </item>
     <item>
@@ -17,7 +17,7 @@
         <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
         <link>https://brightsign.netlify.app/gate0_render_2_env.mp4</link>
         <description>video2.mpg</description>
-        <guid isPermalink="false">gate0_render_2_env</guid>
+        <guid isPermalink="false">dialect-gate0_render_2_env</guid>
         <media:content url="https://brightsign.netlify.app/gate0_render_2_env.mp4" fileSize="31768641" type="video/mp4" medium="video"/>
     </item>
 </channel>
