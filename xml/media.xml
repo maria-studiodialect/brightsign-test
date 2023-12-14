@@ -1,24 +1,40 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
-    <title>Batch Custom Video MRSS template for BrightSign Players</title>
-    <link>https://brightsign.netlify.app/xml/media.xml</link>
-    <generator>Video MRSS Generation Batch File</generator>
-    <ttl>5</ttl>
-    <item>
-        <title>video1.mpg</title>
-        <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
-        <link>https://brightsign.netlify.app/flyOver_720.mp4</link>
-        <description>video1.mpg</description>
-        <guid isPermalink="false">video1187</guid>
-        <media:content url="https://brightsign.netlify.app/flyOver_720.mp4" fileSize="22281816" type="video/mp4" medium="video"/>
-    </item>
-    <item>
-        <title>video2.mpg</title>
-        <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
-        <link>https://brightsign.netlify.app/gate0_render_2_env.mp4</link>
-        <description>video2.mpg</description>
-        <guid isPermalink="false">video2187</guid>
-        <media:content url="https://brightsign.netlify.app/gate0_render_2_env.mp4" fileSize="31768641" type="video/mp4" medium="video"/>
-    </item>
+<title>Batch Custom Video MRSS template for BrightSign Players</title>
+<link>http://brightsignnetwork.com/download/MRSS/VideoMrss.xml</link>
+<generator>Video MRSS Generation Batch File</generator>
+<ttl>5</ttl>
+<item>
+<title>video1.mpg</title>
+<pubDate>2017- 0-SaT 8:27:06.000z</pubDate>
+<link>http://brightsignnetwork.com/download/MRSS/video1.mpg</link>
+<description>video1.mpg</description>
+<guid isPermalink="false">video1187</guid>
+<media:content url="http://brightsignnetwork.com/download/MRSS/video1.mpg" fileSize="6313040" type="video/mp4" medium="video"/>
+</item>
+<item>
+<title>video2.mpg</title>
+<pubDate>2017- 0-SaT 8:27:06.000z</pubDate>
+<link>http://brightsignnetwork.com/download/MRSS/video2.mpg</link>
+<description>video2.mpg</description>
+<guid isPermalink="false">video2187</guid>
+<media:content url="http://brightsignnetwork.com/download/MRSS/video2.mpg" fileSize="41587668" type="video/mp4" medium="video"/>
+</item>
+<item>
+<title>video3.mpg</title>
+<pubDate>2017- 0-SaT 8:27:06.000z</pubDate>
+<link>http://brightsignnetwork.com/download/MRSS/video3.mpg</link>
+<description>video3.mpg</description>
+<guid isPermalink="false">video3187</guid>
+<media:content url="http://brightsignnetwork.com/download/MRSS/video3.mpg" fileSize="34189680" type="video/mp4" medium="video"/>
+</item>
+<item>
+<title>video4.mpg</title>
+<pubDate>2017- 0-SaT 8:27:06.000z</pubDate>
+<link>http://brightsignnetwork.com/download/MRSS/video4.mpg</link>
+<description>video4.mpg</description>
+<guid isPermalink="false">video4187</guid>
+<media:content url="http://brightsignnetwork.com/download/MRSS/video4.mpg" fileSize="19267744" type="video/mp4" medium="video"/>
+</item>
 </channel>
 </rss>
