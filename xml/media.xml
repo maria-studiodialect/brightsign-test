@@ -5,20 +5,20 @@
     <generator>Video MRSS Generation Batch File</generator>
     <ttl>5</ttl>
     <item>
-        <title>video1.mpg</title>
-        <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
-        <link>https://brightsign.netlify.app/flyOver_720.mp4</link>
-        <description>video1.mpg</description>
-        <guid isPermalink="false">dialect-flyOver_720</guid>
-        <media:content url="https://brightsign.netlify.app/flyOver_720.mp4" fileSize="22281816" type="video/mp4" medium="video"/>
-    </item>
-    <item>
-        <title>video2.mpg</title>
-        <pubDate>2023- 14-Thu 12:12:53.000z</pubDate>
-        <link>https://brightsign.netlify.app/gate0_render_2_env.mp4</link>
-        <description>video2.mpg</description>
-        <guid isPermalink="false">dialect-gate0_render_2_env</guid>
-        <media:content url="https://brightsign.netlify.app/gate0_render_2_env.mp4" fileSize="31768641" type="video/mp4" medium="video"/>
+            <title>gate0_render_2_env.mp4</title>
+            <pubDate>2023-12-15T18:14:14.000Z</pubDate>
+            <link>https://ucarecdn.com/b07573d7-e643-408b-9f33-c4b49116607c/gate0_render_2_env.mp4</link>
+            <description>gate0_render_2_env.mp4</description>
+            <guid isPermalink="false">e368480b-3797-4097-9e3f-7752f93115e8</guid>
+            <media:content url="https://ucarecdn.com/b07573d7-e643-408b-9f33-c4b49116607c/gate0_render_2_env.mp4" fileSize="17574395" type="video/mp4" medium="video"/>
+            </item>
+            <item>
+            <title>NR_AOM_EDP_2023_BOTTLE_OLFACTORY_FILM_30S_16x9_1.mp4</title>
+            <pubDate>2023-12-15T18:14:14.000Z</pubDate>
+            <link>https://ucarecdn.com/a5ac1c05-92f6-4e50-9faf-968015b4b44b/NR_AOM_EDP_2023_BOTTLE_OLFACTORY_FILM_30S_16x9_1.mp4</link>
+            <description>NR_AOM_EDP_2023_BOTTLE_OLFACTORY_FILM_30S_16x9_1.mp4</description>
+            <guid isPermalink="false">747e5396-9d4b-4393-a8ba-3394479ab51b</guid>
+            <media:content url="https://ucarecdn.com/a5ac1c05-92f6-4e50-9faf-968015b4b44b/NR_AOM_EDP_2023_BOTTLE_OLFACTORY_FILM_30S_16x9_1.mp4" fileSize="6815785" type="video/mp4" medium="video"/>
     </item>
 </channel>
 </rss>
