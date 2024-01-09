@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "client": {
+      "lastModifiedTime": "2024-01-09T16:52:39.388",
+      "enableSerialDebugging": false,
+      "enableSystemLogDebugging": false,
+      "publishedDataSizeLimitMB": 1000,
+      "dynamicDataSizeLimitMB": 1000,
+      "htmlDataSizeLimitMB": 1000,
+      "htmlLocalStorageSizeLimitMB": 1000,
+      "htmlIndexedDBSizeLimitMB": 1000,
+      "publishedDataSizeLimitPercentage": 0,
+      "dynamicDataSizeLimitPercentage": 0,
+      "htmlDataSizeLimitPercentage": 0,
+      "htmlLocalStorageSizeLimitPercentage": 0,
+      "htmlIndexedDBSizeLimitPercentage": 0,
+      "limitStorageSpace": true,
+      "spaceLimitedByAbsoluteSize": true,
+      "playbackLoggingEnabled": true,
+      "eventLoggingEnabled": true,
+      "diagnosticLoggingEnabled": true,
+      "stateLoggingEnabled": true,
+      "variableLoggingEnabled": true,
+      "uploadLogFilesAtBoot": false,
+      "uploadLogFilesAtSpecificTime": false,
+      "uploadLogFilesTime": 0,
+      "base": "https://gatezero.netlify.app/1920x960",
+      "next": "/current-sync.json",
+      "event": "EVENT",
+      "error": "ERROR",
+      "deviceerror": "DEVICEERROR",
+      "uploadusage": "UPLOADUSAGE",
+      "getfile": "GETFILE",
+      "uploadLogs": "",
+      "uploadSnapshots": "",
+      "timeBetweenNetConnects": 300,
+      "contentDownloadsRestricted": false,
+      "contentDownloadRangeStart": 0,
+      "contentDownloadRangeLength": 0,
+      "deviceScreenShotsEnabled": false,
+      "deviceScreenShotsInterval": 900,
+      "deviceScreenShotsCountLimit": 5,
+      "deviceScreenShotsQuality": 100,
+      "deviceScreenShotsOrientation": "Landscape"
+    },
+    "server": {
+      "account": "ACCOUNT",
+      "user": "",
+      "password": "",
+      "enableBasicAuthentication": false,
+      "group": "GROUPNAME"
+    }
+  },
+  "files": {
+    "download": [
+      {
+        "name": "autoplay-1920x960.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "564cccb71eca72e86741623c274db72ba7cd5c1d"
+        },
+        "size": 20387,
+        "link": "https://gatezero.netlify.app/1920x960/pool/1/d/sha1-564cccb71eca72e86741623c274db72ba7cd5c1d",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "1920x960.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "2147f3e63daf39872143e4885064d5c276735cf9"
+        },
+        "size": 21750,
+        "link": "https://gatezero.netlify.app/1920x960/pool/f/9/sha1-2147f3e63daf39872143e4885064d5c276735cf9",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "autoplugins.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
+        },
+        "size": 142,
+        "link": "https://gatezero.netlify.app/1920x960/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autorun.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "c88899213c5212b2071a21f5a44c7dce3458a8a7"
+        },
+        "size": 1145369,
+        "link": "https://gatezero.netlify.app/1920x960/pool/a/7/sha1-c88899213c5212b2071a21f5a44c7dce3458a8a7",
+        "headers": null,
+        "chargeable": false,
+        "group": "script"
+      },
+      {
+        "name": "autoschedule.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "a09244955fe76725dede32f235e3c04d2c5b6a1e"
+        },
+        "size": 922,
+        "link": "https://gatezero.netlify.app/1920x960/pool/1/e/sha1-a09244955fe76725dede32f235e3c04d2c5b6a1e",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "featureMinRevs.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
+        },
+        "size": 72,
+        "link": "https://gatezero.netlify.app/1920x960/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "PartnerProducts.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "07d3764e1867e17d248d5dc0b5888cad5651dcdc"
+        },
+        "size": 63,
+        "link": "https://gatezero.netlify.app/1920x960/pool/d/c/sha1-07d3764e1867e17d248d5dc0b5888cad5651dcdc",
+        "headers": null,
+        "chargeable": false
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "7688045d9ef7a86366a3cd41338d3d23783957ea"
+        },
+        "size": 24572,
+        "link": "https://gatezero.netlify.app/1920x960/pool/e/a/sha1-7688045d9ef7a86366a3cd41338d3d23783957ea",
+        "headers": null,
+        "chargeable": false
+      }
+    ],
+    "ignore": [
+      {
+        "pattern": "*"
+      }
+    ],
+    "delete": [
+      {
+        "pattern": "*.brs"
+      },
+      {
+        "pattern": "*.rok"
+      },
+      {
+        "pattern": "*.bsfw"
+      }
+    ]
+  }
+}
