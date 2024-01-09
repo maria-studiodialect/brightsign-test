@@ -1,0 +1,30 @@
+{
+  "scheduledPresentations": [
+    {
+      "presentationToSchedule": {
+        "name": "1280x1280",
+        "fileName": "1280x1280.bpfx",
+        "filePath": "/Users/marianery/Desktop/1280x1280-Pres/1280x1280.bpfx"
+      },
+      "presentationLocator": {
+        "name": "1280x1280.bpfx",
+        "path": "/Users/marianery/Desktop/1280x1280-Pres/",
+        "networkId": 0,
+        "location": "Local",
+        "assetType": "Project",
+        "scope": "4e20404e507c3f67"
+      },
+      "dateTime": "2024-01-09T00:00:00.000",
+      "duration": 1440,
+      "allDayEveryDay": true,
+      "recurrence": false,
+      "recurrencePattern": "daily",
+      "recurrencePatternDaily": "EveryDay",
+      "recurrencePatternDaysOfWeek": 127,
+      "recurrenceStartDate": "1970-01-01T00:00:00.000",
+      "recurrenceGoesForever": true,
+      "recurrenceEndDate": "2100-12-31T23:59:59.999",
+      "interruption": false
+    }
+  ]
+}
