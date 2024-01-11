@@ -1,10 +1,10 @@
 {
   "schedulePresentations": {
     "schedulePresentationsById": {
-      "6a5cbe45-8604-4000-aae3-5539f020c000": {
-        "id": "6a5cbe45-8604-4000-aae3-5539f020c000",
+      "e0410cd0-b986-4000-afd6-5234064aa000": {
+        "id": "e0410cd0-b986-4000-afd6-5234064aa000",
         "presentationLocator": {
-          "name": "ZoneTest.bpfx",
+          "name": "1920x960.bpfx",
           "path": "/Users/marianery/code/http-test/1920x960/",
           "networkId": 0,
           "location": "Local",
@@ -24,10 +24,10 @@
       }
     },
     "allSchedulePresentations": [
-      "6a5cbe45-8604-4000-aae3-5539f020c000"
+      "e0410cd0-b986-4000-afd6-5234064aa000"
     ]
   },
   "modifiedTime": {
-    "lastModifiedTime": "2024-01-11T20:24:14.650Z"
+    "lastModifiedTime": "2024-01-11T20:32:04.035Z"
   }
 }
