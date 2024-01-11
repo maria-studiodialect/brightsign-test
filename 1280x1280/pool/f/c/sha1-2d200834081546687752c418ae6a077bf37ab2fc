@@ -4,13 +4,13 @@
     "BrightAuthorConnectedVersion": "1.27.1",
     "type": "publish",
     "meta": {
-      "id": "447ac4af-ea1d-4000-a408-9fa4256ce000",
+      "id": "4a7a95c3-9db8-4000-ad4c-56ddf19bc000",
       "version": "1.3.10",
       "name": "1280x1280",
-      "videoMode": "1920x1080x60p",
+      "videoMode": "3840x2160x25p",
       "size": {
-        "width": 1920,
-        "height": 1080
+        "width": 3840,
+        "height": 2160
       },
       "model": "HD1024",
       "monitorOrientation": "Landscape",
@@ -23,7 +23,7 @@
         "g": 0,
         "b": 0
       },
-      "forceResolution": false,
+      "forceResolution": true,
       "tenBitColorEnabled": false,
       "dolbyVisionEnabled": false,
       "fullResGraphicsEnabled": false,
@@ -727,10 +727,10 @@
         "name": "Zone 1",
         "type": "VideoOrImages",
         "absolutePosition": {
+          "width": 640,
+          "height": 640,
           "x": 0,
           "y": 0,
-          "width": 1920,
-          "height": 1080,
           "pct": false
         },
         "nonInteractive": true,
@@ -738,8 +738,8 @@
         "percentagePosition": {
           "x": 0,
           "y": 0,
-          "width": 100,
-          "height": 100,
+          "width": 16.67,
+          "height": 29.63,
           "pct": true
         },
         "zoneSpecificParameters": {
