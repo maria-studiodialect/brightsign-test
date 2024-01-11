@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2024-01-11T20:32:43.262",
+      "lastModifiedTime": "2024-01-11T20:43:37.736",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 1000,
@@ -24,7 +24,7 @@
       "uploadLogFilesAtBoot": false,
       "uploadLogFilesAtSpecificTime": false,
       "uploadLogFilesTime": 0,
-      "base": "https://gatezero.netlify.app/1920x960",
+      "base": "https://gatezero.netlify.app/1280x1280",
       "next": "/current-sync.json",
       "event": "EVENT",
       "error": "ERROR",
@@ -54,24 +54,24 @@
   "files": {
     "download": [
       {
-        "name": "autoplay-1920x960.json",
+        "name": "autoplay-1280x1280.json",
         "hash": {
           "method": "SHA1",
-          "hex": "afd9abad8858f9c3269d1dcf149c2b0afe662fde"
+          "hex": "93679fdee40755513f595c227e38a7d000302c5f"
         },
         "size": 20400,
-        "link": "https://gatezero.netlify.app/1920x960/pool/d/e/sha1-afd9abad8858f9c3269d1dcf149c2b0afe662fde",
+        "link": "https://gatezero.netlify.app/1280x1280/pool/5/f/sha1-93679fdee40755513f595c227e38a7d000302c5f",
         "headers": null,
         "chargeable": false
       },
       {
-        "name": "1920x960.bml",
+        "name": "1280x1280.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "2be7399e56e4bbb3ce61afbc0a89272991857878"
+          "hex": "ed766b8edc559a4f22669623ed1d321e13c5c4b9"
         },
-        "size": 22255,
-        "link": "https://gatezero.netlify.app/1920x960/pool/7/8/sha1-2be7399e56e4bbb3ce61afbc0a89272991857878",
+        "size": 22892,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/b/9/sha1-ed766b8edc559a4f22669623ed1d321e13c5c4b9",
         "headers": null,
         "chargeable": false
       },
@@ -82,7 +82,7 @@
           "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
         },
         "size": 142,
-        "link": "https://gatezero.netlify.app/1920x960/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "link": "https://gatezero.netlify.app/1280x1280/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
         "headers": null,
         "chargeable": false,
         "group": "script"
@@ -94,7 +94,7 @@
           "hex": "c88899213c5212b2071a21f5a44c7dce3458a8a7"
         },
         "size": 1145369,
-        "link": "https://gatezero.netlify.app/1920x960/pool/a/7/sha1-c88899213c5212b2071a21f5a44c7dce3458a8a7",
+        "link": "https://gatezero.netlify.app/1280x1280/pool/a/7/sha1-c88899213c5212b2071a21f5a44c7dce3458a8a7",
         "headers": null,
         "chargeable": false,
         "group": "script"
@@ -103,10 +103,10 @@
         "name": "autoschedule.json",
         "hash": {
           "method": "SHA1",
-          "hex": "542a8f072a4a0464746866c92fa8aa6fc5545239"
+          "hex": "f429ad2551a5e84891168c749309ef0d06d6a712"
         },
-        "size": 912,
-        "link": "https://gatezero.netlify.app/1920x960/pool/3/9/sha1-542a8f072a4a0464746866c92fa8aa6fc5545239",
+        "size": 918,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/1/2/sha1-f429ad2551a5e84891168c749309ef0d06d6a712",
         "headers": null,
         "chargeable": false
       },
@@ -117,7 +117,7 @@
           "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
         },
         "size": 72,
-        "link": "https://gatezero.netlify.app/1920x960/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
+        "link": "https://gatezero.netlify.app/1280x1280/pool/d/2/sha1-be206e2753e404e0135926e3f26fea9a8da705d2",
         "headers": null,
         "chargeable": false
       },
@@ -128,7 +128,7 @@
           "hex": "07d3764e1867e17d248d5dc0b5888cad5651dcdc"
         },
         "size": 63,
-        "link": "https://gatezero.netlify.app/1920x960/pool/d/c/sha1-07d3764e1867e17d248d5dc0b5888cad5651dcdc",
+        "link": "https://gatezero.netlify.app/1280x1280/pool/d/c/sha1-07d3764e1867e17d248d5dc0b5888cad5651dcdc",
         "headers": null,
         "chargeable": false
       },
@@ -139,7 +139,7 @@
           "hex": "7688045d9ef7a86366a3cd41338d3d23783957ea"
         },
         "size": 24572,
-        "link": "https://gatezero.netlify.app/1920x960/pool/e/a/sha1-7688045d9ef7a86366a3cd41338d3d23783957ea",
+        "link": "https://gatezero.netlify.app/1280x1280/pool/e/a/sha1-7688045d9ef7a86366a3cd41338d3d23783957ea",
         "headers": null,
         "chargeable": false
       }
