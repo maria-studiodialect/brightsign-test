@@ -497,7 +497,7 @@
         }
       },
       "wssDeviceSpec": {},
-      "lastModifiedTime": "2024-01-11T20:09:40.840Z"
+      "lastModifiedTime": "2024-01-11T20:24:12.070Z"
     },
     "zones": {
       "zonesById": {
@@ -719,8 +719,7 @@
       "type": "PRESENTATION",
       "selectableType": "PRESENTATION"
     },
-    "selectionEntities": {},
-    "prevSelectionEntities": {
+    "selectionEntities": {
       "29a81139-e76b-4000-a039-2f4d3a48b000": {
         "id": "29a81139-e76b-4000-a039-2f4d3a48b000",
         "type": "ZONE",
@@ -728,6 +727,7 @@
         "selectableData": null
       }
     },
+    "prevSelectionEntities": {},
     "isEventAdvancedEnabled": false,
     "activeAssetMenuTab": "ASSETS"
   },
