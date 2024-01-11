@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2024-01-09T17:53:40.009",
+      "lastModifiedTime": "2024-01-11T17:12:23.274",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 1000,
@@ -54,24 +54,24 @@
   "files": {
     "download": [
       {
-        "name": "autoplay-1280x1280.json",
+        "name": "autoplay-1920x960.json",
         "hash": {
           "method": "SHA1",
-          "hex": "9b22dc67616c2a1676f51f46ca4bf5d0f5e6e9ed"
+          "hex": "71c65ed79cf077fad92785503ac65318addd642f"
         },
-        "size": 20390,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/e/d/sha1-9b22dc67616c2a1676f51f46ca4bf5d0f5e6e9ed",
+        "size": 20386,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/2/f/sha1-71c65ed79cf077fad92785503ac65318addd642f",
         "headers": null,
         "chargeable": false
       },
       {
-        "name": "1280x1280.bml",
+        "name": "1920x960.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "b478f0e3fd444bbceeef52b32b0b0f0b1c638f3b"
+          "hex": "ddaae70392ecb6b5cc9d6b18e73e6627d967853c"
         },
-        "size": 21512,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/3/b/sha1-b478f0e3fd444bbceeef52b32b0b0f0b1c638f3b",
+        "size": 22558,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/3/c/sha1-ddaae70392ecb6b5cc9d6b18e73e6627d967853c",
         "headers": null,
         "chargeable": false
       },
@@ -103,10 +103,10 @@
         "name": "autoschedule.json",
         "hash": {
           "method": "SHA1",
-          "hex": "0cf6107dfb80468acbebaf75512d16b8b9b0908d"
+          "hex": "f78ecf54cdab624eb91f49ef1870fda029f9df56"
         },
-        "size": 914,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/8/d/sha1-0cf6107dfb80468acbebaf75512d16b8b9b0908d",
+        "size": 922,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/5/6/sha1-f78ecf54cdab624eb91f49ef1870fda029f9df56",
         "headers": null,
         "chargeable": false
       },
