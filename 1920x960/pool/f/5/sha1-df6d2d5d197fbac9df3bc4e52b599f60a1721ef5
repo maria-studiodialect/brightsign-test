@@ -6,13 +6,13 @@
   "bsdm": {
     "sign": {
       "properties": {
-        "id": "66b4f792-98b4-4000-a83c-b9805642b000",
+        "id": "6a859686-9b00-4000-a569-49a17fca7000",
         "version": "1.3.10",
-        "name": "1280x1280",
-        "videoMode": "1920x1920x60p",
+        "name": "1920x960",
+        "videoMode": "1920x1080x25p",
         "size": {
           "width": 1920,
-          "height": 1920
+          "height": 1080
         },
         "model": "HD1024",
         "monitorOrientation": "Landscape",
@@ -25,7 +25,7 @@
           "g": 0,
           "b": 0
         },
-        "forceResolution": false,
+        "forceResolution": true,
         "tenBitColorEnabled": false,
         "dolbyVisionEnabled": false,
         "fullResGraphicsEnabled": false,
@@ -497,22 +497,22 @@
         }
       },
       "wssDeviceSpec": {},
-      "lastModifiedTime": "2024-01-11T17:20:07.052Z"
+      "lastModifiedTime": "2024-01-11T17:41:46.645Z"
     },
     "zones": {
       "zonesById": {
-        "fd4b14e2-42db-4000-aa2f-ce3b0720c000": {
-          "id": "fd4b14e2-42db-4000-aa2f-ce3b0720c000",
+        "0a08b917-13e6-4000-abd6-ff0fe664a000": {
+          "id": "0a08b917-13e6-4000-abd6-ff0fe664a000",
           "name": "Zone 1",
           "type": "VideoOrImages",
           "tag": "VI1",
           "nonInteractive": true,
-          "initialMediaStateId": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+          "initialMediaStateId": "67f5d4fe-3b62-4000-ae65-0ab227f63000",
           "position": {
+            "width": 1920,
+            "height": 960,
             "x": 0,
             "y": 0,
-            "width": 640,
-            "height": 640,
             "pct": false
           },
           "properties": {
@@ -567,31 +567,31 @@
         }
       },
       "allZones": [
-        "fd4b14e2-42db-4000-aa2f-ce3b0720c000"
+        "0a08b917-13e6-4000-abd6-ff0fe664a000"
       ],
       "zoneLayersById": {
-        "69fb42f4-6f7a-4000-afe3-25847905f000": {
-          "id": "69fb42f4-6f7a-4000-afe3-25847905f000",
+        "88276dc2-2461-4000-acbf-71aac861b000": {
+          "id": "88276dc2-2461-4000-acbf-71aac861b000",
           "type": "Graphics",
           "zoneSequence": [
-            "fd4b14e2-42db-4000-aa2f-ce3b0720c000"
+            "0a08b917-13e6-4000-abd6-ff0fe664a000"
           ]
         },
-        "4016f4cc-1d01-4000-ad26-e2c5a668c000": {
-          "id": "4016f4cc-1d01-4000-ad26-e2c5a668c000",
+        "5db76ad2-5ed9-4000-a380-204510975000": {
+          "id": "5db76ad2-5ed9-4000-a380-204510975000",
           "type": "Audio",
           "zoneSequence": []
         },
-        "78330aaa-0614-4000-aa4f-033eb5c38000": {
-          "id": "78330aaa-0614-4000-aa4f-033eb5c38000",
+        "7a4349c8-e898-4000-af75-072d6c64b000": {
+          "id": "7a4349c8-e898-4000-af75-072d6c64b000",
           "type": "Invisible",
           "zoneSequence": []
         },
-        "741f190c-c6d3-4000-a56e-cfb67d556000": {
-          "id": "741f190c-c6d3-4000-a56e-cfb67d556000",
+        "a588a7e1-7d87-4000-acce-664c6707a000": {
+          "id": "a588a7e1-7d87-4000-acce-664c6707a000",
           "type": "Video",
           "zoneSequence": [
-            "fd4b14e2-42db-4000-aa2f-ce3b0720c000"
+            "0a08b917-13e6-4000-abd6-ff0fe664a000"
           ],
           "zoneLayerSpecificProperties": {
             "type": "FourK",
@@ -602,11 +602,11 @@
         }
       },
       "zoneLayerSequence": [
-        "69fb42f4-6f7a-4000-afe3-25847905f000",
-        "741f190c-c6d3-4000-a56e-cfb67d556000"
+        "88276dc2-2461-4000-acbf-71aac861b000",
+        "a588a7e1-7d87-4000-acce-664c6707a000"
       ],
       "zoneTagIndices": {
-        "fd4b14e2-42db-4000-aa2f-ce3b0720c000": 2
+        "0a08b917-13e6-4000-abd6-ff0fe664a000": 2
       }
     },
     "screens": {
@@ -615,18 +615,18 @@
     },
     "mediaStates": {
       "mediaStatesById": {
-        "b4a3e21e-ce42-4000-a640-0ef365a9d000": {
-          "id": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+        "67f5d4fe-3b62-4000-ae65-0ab227f63000": {
+          "id": "67f5d4fe-3b62-4000-ae65-0ab227f63000",
           "name": "State1",
           "tag": "1",
           "container": {
-            "id": "fd4b14e2-42db-4000-aa2f-ce3b0720c000",
+            "id": "0a08b917-13e6-4000-abd6-ff0fe664a000",
             "type": 0
           },
           "contentItem": {
             "name": "",
             "type": "MrssFeed",
-            "dataFeedId": "d095c930-2505-4000-ab51-57d56a1ca000",
+            "dataFeedId": "d86b1f6f-aa65-4000-a083-76f7ce34f000",
             "videoPlayerRequired": false
           }
         }
@@ -634,22 +634,22 @@
       "sequencesByParentId": {}
     },
     "events": {
-      "69cf3cf6-59b2-4000-a7b5-09d074b81000": {
-        "id": "69cf3cf6-59b2-4000-a7b5-09d074b81000",
+      "0b48d725-b08b-4000-a7f1-4385b9c90000": {
+        "id": "0b48d725-b08b-4000-a7f1-4385b9c90000",
         "name": "State1_ev",
         "type": "MediaEnd",
-        "mediaStateId": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+        "mediaStateId": "67f5d4fe-3b62-4000-ae65-0ab227f63000",
         "disabled": true,
         "data": null
       }
     },
     "transitions": {
       "transitionsById": {
-        "26b172d1-96c1-4000-a2bf-cb8777601000": {
-          "id": "26b172d1-96c1-4000-a2bf-cb8777601000",
+        "d65effd5-ceea-4000-a440-2e6bdfc5b000": {
+          "id": "d65effd5-ceea-4000-a440-2e6bdfc5b000",
           "name": "State1_tr",
-          "eventId": "69cf3cf6-59b2-4000-a7b5-09d074b81000",
-          "targetMediaStateId": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+          "eventId": "0b48d725-b08b-4000-a7f1-4385b9c90000",
+          "targetMediaStateId": "67f5d4fe-3b62-4000-ae65-0ab227f63000",
           "type": "No effect",
           "duration": 0
         }
@@ -664,10 +664,10 @@
     "nodeApps": {},
     "dataFeeds": {
       "feedsById": {
-        "d095c930-2505-4000-ab51-57d56a1ca000": {
-          "id": "d095c930-2505-4000-ab51-57d56a1ca000",
+        "d86b1f6f-aa65-4000-a083-76f7ce34f000": {
+          "id": "d86b1f6f-aa65-4000-a083-76f7ce34f000",
           "name": "",
-          "feedSourceId": "aebdba95-66e3-4000-a610-7fb424711000",
+          "feedSourceId": "9357d1a4-3e4d-4000-afe1-95e574d45000",
           "usage": "MRSS",
           "parserPlugin": "0",
           "autoGenerateUserVariables": false,
@@ -675,14 +675,14 @@
         }
       },
       "sourcesById": {
-        "aebdba95-66e3-4000-a610-7fb424711000": {
-          "id": "aebdba95-66e3-4000-a610-7fb424711000",
+        "9357d1a4-3e4d-4000-afe1-95e574d45000": {
+          "id": "9357d1a4-3e4d-4000-afe1-95e574d45000",
           "type": "URLDataFeed",
           "url": {
             "params": [
               {
                 "type": "Text",
-                "value": "https://heinemann.vercel.app/1280x1280.xml"
+                "value": "https://heinemann.vercel.app/1920x960.xml"
               }
             ]
           },
@@ -713,12 +713,12 @@
     "assetMap": {},
     "thumbnail": {
       "type": "image/jpeg",
-      "data": "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",
+      "data": "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",
       "size": {
         "width": 200,
-        "height": 200
+        "height": 112
       },
-      "hash": "7907b0135780221302eee4d47bd3f00b57665a8a"
+      "hash": "25a54cc659fdd4fad7811c8290d4f6956b8386f6"
     }
   },
   "selection": {
@@ -729,23 +729,16 @@
       "selectableType": "PRESENTATION"
     },
     "selectionEntities": {
-      "fd4b14e2-42db-4000-aa2f-ce3b0720c000": {
-        "id": "fd4b14e2-42db-4000-aa2f-ce3b0720c000",
+      "0a08b917-13e6-4000-abd6-ff0fe664a000": {
+        "id": "0a08b917-13e6-4000-abd6-ff0fe664a000",
         "type": "ZONE",
         "selectableType": "ZONE",
         "selectableData": null
       }
     },
-    "prevSelectionEntities": {
-      "fd4b14e2-42db-4000-aa2f-ce3b0720c000": {
-        "id": "fd4b14e2-42db-4000-aa2f-ce3b0720c000",
-        "type": "ZONE",
-        "selectableType": "ZONE",
-        "selectableData": null
-      }
-    },
+    "prevSelectionEntities": {},
     "isEventAdvancedEnabled": false,
-    "activeAssetMenuTab": "WIDGETS"
+    "activeAssetMenuTab": "ASSETS"
   },
   "interactiveCanvas": {
     "statePositionById": {},
