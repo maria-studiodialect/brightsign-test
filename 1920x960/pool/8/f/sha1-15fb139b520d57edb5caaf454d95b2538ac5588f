@@ -4,13 +4,13 @@
     "BrightAuthorConnectedVersion": "1.27.1",
     "type": "publish",
     "meta": {
-      "id": "6a859686-9b00-4000-a569-49a17fca7000",
+      "id": "9fcb10bd-6ded-4000-af6e-2bca35c58000",
       "version": "1.3.10",
       "name": "1920x960",
-      "videoMode": "1920x1080x25p",
+      "videoMode": "3840x2160x25p",
       "size": {
-        "width": 1920,
-        "height": 1080
+        "width": 3840,
+        "height": 2160
       },
       "model": "HD1024",
       "monitorOrientation": "Landscape",
@@ -727,10 +727,10 @@
         "name": "Zone 1",
         "type": "VideoOrImages",
         "absolutePosition": {
-          "width": 1920,
-          "height": 960,
           "x": 0,
           "y": 0,
+          "width": 960,
+          "height": 480,
           "pct": false
         },
         "nonInteractive": true,
@@ -738,12 +738,12 @@
         "percentagePosition": {
           "x": 0,
           "y": 0,
-          "width": 100,
-          "height": 88.89,
+          "width": 25,
+          "height": 22.22,
           "pct": true
         },
         "zoneSpecificParameters": {
-          "viewMode": "Letterboxed and Centered",
+          "viewMode": "Fill Screen and Centered",
           "videoVolume": 100,
           "zOrderFront": true,
           "mosaic": false,
@@ -777,7 +777,7 @@
           "audioVolume": 100,
           "minimumVolume": 0,
           "maximumVolume": 100,
-          "imageMode": "Scale to Fit"
+          "imageMode": "Scale to Fill"
         },
         "playlist": {
           "name": "Playlist 0",
