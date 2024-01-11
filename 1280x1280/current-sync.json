@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2024-01-11T17:12:23.274",
+      "lastModifiedTime": "2024-01-11T17:21:14.473",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 1000,
@@ -54,24 +54,24 @@
   "files": {
     "download": [
       {
-        "name": "autoplay-1920x960.json",
+        "name": "autoplay-1280x1280.json",
         "hash": {
           "method": "SHA1",
-          "hex": "71c65ed79cf077fad92785503ac65318addd642f"
+          "hex": "dbf0ac2a3598603ffc2251df023df51b3cf16ea3"
         },
-        "size": 20386,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/2/f/sha1-71c65ed79cf077fad92785503ac65318addd642f",
+        "size": 20392,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/a/3/sha1-dbf0ac2a3598603ffc2251df023df51b3cf16ea3",
         "headers": null,
         "chargeable": false
       },
       {
-        "name": "1920x960.bml",
+        "name": "1280x1280.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "ddaae70392ecb6b5cc9d6b18e73e6627d967853c"
+          "hex": "de00ef8d4f09c98699f944bacabc3805d1cc01ec"
         },
-        "size": 22558,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/3/c/sha1-ddaae70392ecb6b5cc9d6b18e73e6627d967853c",
+        "size": 23721,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/e/c/sha1-de00ef8d4f09c98699f944bacabc3805d1cc01ec",
         "headers": null,
         "chargeable": false
       },
@@ -103,10 +103,10 @@
         "name": "autoschedule.json",
         "hash": {
           "method": "SHA1",
-          "hex": "f78ecf54cdab624eb91f49ef1870fda029f9df56"
+          "hex": "3b7c2620eea18ccb6f0251e4dde7afb4e652c899"
         },
-        "size": 922,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/5/6/sha1-f78ecf54cdab624eb91f49ef1870fda029f9df56",
+        "size": 914,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/9/9/sha1-3b7c2620eea18ccb6f0251e4dde7afb4e652c899",
         "headers": null,
         "chargeable": false
       },

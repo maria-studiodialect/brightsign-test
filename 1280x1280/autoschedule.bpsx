@@ -1,11 +1,11 @@
 {
   "schedulePresentations": {
     "schedulePresentationsById": {
-      "a0f26065-dccc-4000-af43-f2c4b9b71000": {
-        "id": "a0f26065-dccc-4000-af43-f2c4b9b71000",
+      "1bed76ab-a0b6-4000-afbd-f74e907f7000": {
+        "id": "1bed76ab-a0b6-4000-afbd-f74e907f7000",
         "presentationLocator": {
-          "name": "1920x960.bpfx",
-          "path": "/Users/marianery/Desktop/tester-pres-gatezero/",
+          "name": "1280x1280.bpfx",
+          "path": "/Users/marianery/Desktop/1280x1280-Pres/",
           "networkId": 0,
           "location": "Local",
           "assetType": "Project",
@@ -24,10 +24,10 @@
       }
     },
     "allSchedulePresentations": [
-      "a0f26065-dccc-4000-af43-f2c4b9b71000"
+      "1bed76ab-a0b6-4000-afbd-f74e907f7000"
     ]
   },
   "modifiedTime": {
-    "lastModifiedTime": "2024-01-11T17:12:08.307Z"
+    "lastModifiedTime": "2024-01-11T17:20:08.894Z"
   }
 }
