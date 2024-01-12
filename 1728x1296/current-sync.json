@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2024-01-12T13:51:23.703",
+      "lastModifiedTime": "2024-01-12T14:13:47.451",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 1000,
@@ -57,10 +57,10 @@
         "name": "autoplay-1728x1296.json",
         "hash": {
           "method": "SHA1",
-          "hex": "a8e85dc705f0d3df304b0eb3b86e144d15e542f9"
+          "hex": "f3491d8c47354ece11b741f4cec1b3fca9f14c9e"
         },
-        "size": 19939,
-        "link": "https://gatezero.netlify.app/1728x1296/pool/f/9/sha1-a8e85dc705f0d3df304b0eb3b86e144d15e542f9",
+        "size": 20629,
+        "link": "https://gatezero.netlify.app/1728x1296/pool/9/e/sha1-f3491d8c47354ece11b741f4cec1b3fca9f14c9e",
         "headers": null,
         "chargeable": false
       },
@@ -68,10 +68,10 @@
         "name": "1728x1296.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "b97f7e95ebf6bef7a6596473cdde6d5d0bb51ac1"
+          "hex": "47b3f9030d5075216805e95ad5afd44db81187a6"
         },
-        "size": 23760,
-        "link": "https://gatezero.netlify.app/1728x1296/pool/c/1/sha1-b97f7e95ebf6bef7a6596473cdde6d5d0bb51ac1",
+        "size": 24089,
+        "link": "https://gatezero.netlify.app/1728x1296/pool/a/6/sha1-47b3f9030d5075216805e95ad5afd44db81187a6",
         "headers": null,
         "chargeable": false
       },
@@ -86,18 +86,6 @@
         "headers": null,
         "chargeable": false,
         "group": "script"
-      },
-      {
-        "name": "1 sq-closeups 1280X1280.mp4",
-        "hash": {
-          "method": "SHA1",
-          "hex": "1b62bd6a667e1c7af86c536e5cd3e8964f8c9aea"
-        },
-        "size": 9724444,
-        "link": "https://gatezero.netlify.app/1728x1296/pool/e/a/sha1-1b62bd6a667e1c7af86c536e5cd3e8964f8c9aea",
-        "headers": null,
-        "chargeable": false,
-        "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=48000|AD=00007555|VP=1|VC=H264|W=1280|H=1080|VD=00007530|CD=0|VFR=30.000000|D=00007540|FT=00000000"
       },
       {
         "name": "autoplugins.brs",
