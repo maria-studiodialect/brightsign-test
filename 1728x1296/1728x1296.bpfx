@@ -6,7 +6,7 @@
   "bsdm": {
     "sign": {
       "properties": {
-        "id": "edef4b15-ee9b-4000-a7d1-4fd31c407000",
+        "id": "05c998cd-f1e7-4000-ab73-f5a723520000",
         "version": "1.3.10",
         "name": "1728x1296",
         "videoMode": "1792x1344x60p",
@@ -497,7 +497,7 @@
         }
       },
       "wssDeviceSpec": {},
-      "lastModifiedTime": "2024-01-12T13:36:26.009Z"
+      "lastModifiedTime": "2024-01-12T13:50:58.486Z"
     },
     "zones": {
       "zonesById": {
@@ -507,7 +507,7 @@
           "type": "VideoOrImages",
           "tag": "VI1",
           "nonInteractive": true,
-          "initialMediaStateId": "1c95b2f7-d547-4000-a810-2f064c83d000",
+          "initialMediaStateId": "7fdf459b-5f63-4000-a565-7b78be32e000",
           "position": {
             "width": 640,
             "height": 640,
@@ -606,7 +606,7 @@
         "7f82f17d-5730-4000-a7ac-2f9ac93f9000"
       ],
       "zoneTagIndices": {
-        "02bfbf19-cad1-4000-a719-b184ed007000": 2
+        "02bfbf19-cad1-4000-a719-b184ed007000": 3
       }
     },
     "screens": {
@@ -615,41 +615,43 @@
     },
     "mediaStates": {
       "mediaStatesById": {
-        "1c95b2f7-d547-4000-a810-2f064c83d000": {
-          "id": "1c95b2f7-d547-4000-a810-2f064c83d000",
-          "name": "State1",
-          "tag": "1",
+        "7fdf459b-5f63-4000-a565-7b78be32e000": {
+          "id": "7fdf459b-5f63-4000-a565-7b78be32e000",
+          "name": "1 sq-closeups 1280X1280.mp4",
+          "tag": "2",
           "container": {
             "id": "02bfbf19-cad1-4000-a719-b184ed007000",
             "type": 0
           },
           "contentItem": {
-            "name": "",
-            "type": "MrssFeed",
-            "dataFeedId": "f0dcbb3d-16ef-4000-a7a3-998001dd2000",
-            "videoPlayerRequired": false
+            "name": "1 sq-closeups 1280X1280.mp4",
+            "type": "Video",
+            "assetId": "0495ee43-8a94-4000-a6e5-4317c2071000",
+            "volume": 100,
+            "videoDisplayMode": "2D",
+            "automaticallyLoop": true
           }
         }
       },
       "sequencesByParentId": {}
     },
     "events": {
-      "081c9c39-3217-4000-a8fd-6411e3ae5000": {
-        "id": "081c9c39-3217-4000-a8fd-6411e3ae5000",
-        "name": "State1_ev",
+      "4e405489-f4de-4000-adb9-d2ad39c1b000": {
+        "id": "4e405489-f4de-4000-adb9-d2ad39c1b000",
+        "name": "1 sq-closeups 1280X1280.mp4_ev",
         "type": "MediaEnd",
-        "mediaStateId": "1c95b2f7-d547-4000-a810-2f064c83d000",
+        "mediaStateId": "7fdf459b-5f63-4000-a565-7b78be32e000",
         "disabled": true,
         "data": null
       }
     },
     "transitions": {
       "transitionsById": {
-        "7ffcdefe-3a4d-4000-ab29-3718516cd000": {
-          "id": "7ffcdefe-3a4d-4000-ab29-3718516cd000",
-          "name": "State1_tr",
-          "eventId": "081c9c39-3217-4000-a8fd-6411e3ae5000",
-          "targetMediaStateId": "1c95b2f7-d547-4000-a810-2f064c83d000",
+        "7e1a92bb-c60a-4000-ad2b-c81d11038000": {
+          "id": "7e1a92bb-c60a-4000-ad2b-c81d11038000",
+          "name": "1 sq-closeups 1280X1280.mp4_tr",
+          "eventId": "4e405489-f4de-4000-adb9-d2ad39c1b000",
+          "targetMediaStateId": "7fdf459b-5f63-4000-a565-7b78be32e000",
           "type": "No effect",
           "duration": 0
         }
@@ -663,34 +665,8 @@
     "htmlSites": {},
     "nodeApps": {},
     "dataFeeds": {
-      "feedsById": {
-        "f0dcbb3d-16ef-4000-a7a3-998001dd2000": {
-          "id": "f0dcbb3d-16ef-4000-a7a3-998001dd2000",
-          "name": "",
-          "feedSourceId": "04b3b100-cc35-4000-a15c-961d8cdf9000",
-          "usage": "MRSS",
-          "parserPlugin": "0",
-          "autoGenerateUserVariables": false,
-          "userVariableAccess": "Private"
-        }
-      },
-      "sourcesById": {
-        "04b3b100-cc35-4000-a15c-961d8cdf9000": {
-          "id": "04b3b100-cc35-4000-a15c-961d8cdf9000",
-          "type": "URLDataFeed",
-          "url": {
-            "params": [
-              {
-                "type": "Text",
-                "value": "https://heinemann.vercel.app/1280x1280.xml"
-              }
-            ]
-          },
-          "updateInterval": 300,
-          "useHeadRequest": true,
-          "refCount": 1
-        }
-      }
+      "feedsById": {},
+      "sourcesById": {}
     },
     "userVariables": {
       "variablesById": {},
@@ -730,6 +706,20 @@
         "fileSize": 1825,
         "lastModifiedDate": "2024-01-12T13:15:05.245Z",
         "refCount": 1
+      },
+      "0495ee43-8a94-4000-a6e5-4317c2071000": {
+        "id": "0495ee43-8a94-4000-a6e5-4317c2071000",
+        "name": "1 sq-closeups 1280X1280.mp4",
+        "path": "/Users/marianery/code/http-test/1728x1296/",
+        "networkId": 0,
+        "location": "Local",
+        "assetType": "Content",
+        "scope": "4e20404e507c3f67",
+        "locator": "file:///Users/marianery/code/http-test/1728x1296/1 sq-closeups 1280X1280.mp4",
+        "mediaType": "Video",
+        "fileSize": 9724444,
+        "lastModifiedDate": "2024-01-12T13:50:14.473Z",
+        "refCount": 1
       }
     },
     "thumbnail": {
@@ -750,23 +740,15 @@
       "selectableType": "ZONE"
     },
     "selectionEntities": {
-      "1c95b2f7-d547-4000-a810-2f064c83d000": {
-        "id": "1c95b2f7-d547-4000-a810-2f064c83d000",
-        "type": "MrssFeed",
-        "selectableType": "STATE",
-        "selectableData": null
+      "7fdf459b-5f63-4000-a565-7b78be32e000": {
+        "id": "7fdf459b-5f63-4000-a565-7b78be32e000",
+        "type": "Video",
+        "selectableType": "STATE"
       }
     },
-    "prevSelectionEntities": {
-      "1c95b2f7-d547-4000-a810-2f064c83d000": {
-        "id": "1c95b2f7-d547-4000-a810-2f064c83d000",
-        "type": "MrssFeed",
-        "selectableType": "STATE",
-        "selectableData": null
-      }
-    },
+    "prevSelectionEntities": {},
     "isEventAdvancedEnabled": false,
-    "activeAssetMenuTab": "WIDGETS"
+    "activeAssetMenuTab": "ASSETS"
   },
   "interactiveCanvas": {
     "statePositionById": {},
