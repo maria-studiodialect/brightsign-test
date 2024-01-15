@@ -1,7 +1,7 @@
 {
   "meta": {
     "client": {
-      "lastModifiedTime": "2024-01-12T18:08:40.829",
+      "lastModifiedTime": "2024-01-15T14:58:38.157",
       "enableSerialDebugging": false,
       "enableSystemLogDebugging": false,
       "publishedDataSizeLimitMB": 1000,
@@ -57,10 +57,10 @@
         "name": "autoplay-1280x1280.json",
         "hash": {
           "method": "SHA1",
-          "hex": "b2c2ea29250ee72a76f3a65fd8e30d9d47367fbe"
+          "hex": "dcbfe3a00cc7c371d585950be4c0bb8b764f3409"
         },
-        "size": 20627,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/b/e/sha1-b2c2ea29250ee72a76f3a65fd8e30d9d47367fbe",
+        "size": 20407,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/0/9/sha1-dcbfe3a00cc7c371d585950be4c0bb8b764f3409",
         "headers": null,
         "chargeable": false
       },
@@ -68,33 +68,21 @@
         "name": "1280x1280.bml",
         "hash": {
           "method": "SHA1",
-          "hex": "3d20317a6ad237a97384b9c9306a81cfe1494958"
+          "hex": "d0855624a5bdeaf3010b2b42b83b420b40cb7e2f"
         },
-        "size": 23732,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/5/8/sha1-3d20317a6ad237a97384b9c9306a81cfe1494958",
+        "size": 23015,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/2/f/sha1-d0855624a5bdeaf3010b2b42b83b420b40cb7e2f",
         "headers": null,
         "chargeable": false
-      },
-      {
-        "name": "SetMultiScreensVideoMode.brs",
-        "hash": {
-          "method": "SHA1",
-          "hex": "f81aee13f08b70c39f11478ae260f6a111ac84a3"
-        },
-        "size": 2290,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/a/3/sha1-f81aee13f08b70c39f11478ae260f6a111ac84a3",
-        "headers": null,
-        "chargeable": false,
-        "group": "script"
       },
       {
         "name": "autoplugins.brs",
         "hash": {
           "method": "SHA1",
-          "hex": "c5b8bfb3f2b6a29a56794147a4ac09d2d329dca6"
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
         },
-        "size": 181,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/a/6/sha1-c5b8bfb3f2b6a29a56794147a4ac09d2d329dca6",
+        "size": 142,
+        "link": "https://gatezero.netlify.app/1280x1280/pool/b/8/sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
         "headers": null,
         "chargeable": false,
         "group": "script"
@@ -115,10 +103,10 @@
         "name": "autoschedule.json",
         "hash": {
           "method": "SHA1",
-          "hex": "e1a78ad1cd27a1e7b1d2f3f7f02be20b48b5b44e"
+          "hex": "8092e7385d5469b1d1ec54b6a495482c873bcefa"
         },
         "size": 918,
-        "link": "https://gatezero.netlify.app/1280x1280/pool/4/e/sha1-e1a78ad1cd27a1e7b1d2f3f7f02be20b48b5b44e",
+        "link": "https://gatezero.netlify.app/1280x1280/pool/f/a/sha1-8092e7385d5469b1d1ec54b6a495482c873bcefa",
         "headers": null,
         "chargeable": false
       },

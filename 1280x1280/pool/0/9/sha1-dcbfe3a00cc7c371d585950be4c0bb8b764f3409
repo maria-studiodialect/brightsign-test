@@ -4,15 +4,15 @@
     "BrightAuthorConnectedVersion": "1.27.1",
     "type": "publish",
     "meta": {
-      "id": "4af764ed-d15c-4000-a3be-d8b588976000",
+      "id": "f79f9b2c-c8e7-4000-afe1-facc63557000",
       "version": "1.3.10",
       "name": "1280x1280",
-      "videoMode": "1792x1344x60p",
+      "videoMode": "1728x1296x60p",
       "size": {
-        "width": 1792,
-        "height": 1344
+        "width": 1728,
+        "height": 1296
       },
-      "model": "HD1024",
+      "model": "LS445",
       "monitorOrientation": "Landscape",
       "monitorOverscan": "NoOverscan",
       "videoConnector": "HDMI",
@@ -190,7 +190,7 @@
       },
       "irRemote": {
         "irInConfiguration": {
-          "source": "Ir-in"
+          "source": "Iguana"
         },
         "irOutConfiguration": {
           "destination": "Iguana"
@@ -493,7 +493,7 @@
       "htmlEnableChromiumVideoPlayback": false,
       "dataFeedSources": [
         {
-          "id": "aebdba95-66e3-4000-a610-7fb424711000",
+          "id": "0ea0e59a-48b6-4000-a6ac-9371085a5000",
           "type": "URLDataFeed",
           "url": {
             "params": [
@@ -513,13 +513,7 @@
       "userDefinedEvents": [],
       "scriptPlugins": [],
       "parserPlugins": [],
-      "videoModePlugins": [
-        {
-          "filePath": "/Users/marianery/Downloads/video-mode-plugin-master/SetMultiScreensVideoMode.brs",
-          "name": "SetMultiScreensVideoMode.brs",
-          "functionName": "ModelineS5"
-        }
-      ],
+      "videoModePlugins": [],
       "auxiliaryFiles": [],
       "presentationIdentifiers": [],
       "beacons": [],
@@ -708,7 +702,7 @@
       "htmlSites": [],
       "liveDataFeeds": [
         {
-          "id": "d095c930-2505-4000-ab51-57d56a1ca000",
+          "id": "234037f2-d0d7-4000-ad73-9b89ed55d000",
           "type": "URLDataFeed",
           "usage": "MRSS",
           "updateInterval": 300,
@@ -733,10 +727,10 @@
         "name": "Zone 1",
         "type": "VideoOrImages",
         "absolutePosition": {
+          "width": 1280,
+          "height": 1280,
           "x": 0,
           "y": 0,
-          "width": 640,
-          "height": 640,
           "pct": false
         },
         "nonInteractive": true,
@@ -744,8 +738,8 @@
         "percentagePosition": {
           "x": 0,
           "y": 0,
-          "width": 35.71,
-          "height": 47.62,
+          "width": 74.07,
+          "height": 98.77,
           "pct": true
         },
         "zoneSpecificParameters": {
@@ -793,7 +787,7 @@
             {
               "mrssDataFeedItem": {
                 "stateName": "State1",
-                "liveDataFeedId": "d095c930-2505-4000-ab51-57d56a1ca000"
+                "liveDataFeedId": "234037f2-d0d7-4000-ad73-9b89ed55d000"
               },
               "name": "State1",
               "entryCommands": [],
