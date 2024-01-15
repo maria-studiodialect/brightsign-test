@@ -23,7 +23,7 @@ Function SetVideoMode(videoModeInputs, bsp) As String
   ' These are considered, "custom".
   ' The following code block is a example of and how to generate or grab the modeline - https://brightsign.atlassian.net/wiki/spaces/DOC/pages/420217686/Applying+a+Custom+Resolution
   vm = CreateObject("roVideoMode")
-  vm.SetCustomModeline("Modeline 1728x1296x60p 187.95 1728 1848 2032 2336 1296 1297 1300 1341  -hsync -vsync")
+  vm.SetCustomModeline("1920x1280x60p:rgb:fullrange")
   return "custom"
 
 End Function
