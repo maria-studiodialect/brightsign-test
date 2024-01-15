@@ -6,15 +6,15 @@
   "bsdm": {
     "sign": {
       "properties": {
-        "id": "3b54581d-850b-4000-a50c-1dc586d02000",
+        "id": "f79f9b2c-c8e7-4000-afe1-facc63557000",
         "version": "1.3.10",
         "name": "1280x1280",
-        "videoMode": "3840x2160x25p",
+        "videoMode": "1728x1296x60p",
         "size": {
-          "width": 3840,
-          "height": 2160
+          "width": 1728,
+          "height": 1296
         },
-        "model": "HD1024",
+        "model": "LS445",
         "monitorOrientation": "Landscape",
         "monitorOverscan": "NoOverscan",
         "videoConnector": "HDMI",
@@ -25,7 +25,7 @@
           "g": 0,
           "b": 0
         },
-        "forceResolution": true,
+        "forceResolution": false,
         "tenBitColorEnabled": false,
         "dolbyVisionEnabled": false,
         "fullResGraphicsEnabled": false,
@@ -197,7 +197,7 @@
       },
       "irRemote": {
         "irInConfiguration": {
-          "source": "Ir-in"
+          "source": "Iguana"
         },
         "irOutConfiguration": {
           "destination": "Iguana"
@@ -497,20 +497,20 @@
         }
       },
       "wssDeviceSpec": {},
-      "lastModifiedTime": "2024-01-11T18:27:48.747Z"
+      "lastModifiedTime": "2024-01-15T14:57:46.135Z"
     },
     "zones": {
       "zonesById": {
-        "fd4b14e2-42db-4000-aa2f-ce3b0720c000": {
-          "id": "fd4b14e2-42db-4000-aa2f-ce3b0720c000",
+        "3d50de6d-8602-4000-aa8e-fb69a3def000": {
+          "id": "3d50de6d-8602-4000-aa8e-fb69a3def000",
           "name": "Zone 1",
           "type": "VideoOrImages",
           "tag": "VI1",
           "nonInteractive": true,
-          "initialMediaStateId": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+          "initialMediaStateId": "6ab22e69-035a-4000-a347-ba890c092000",
           "position": {
-            "width": 640,
-            "height": 640,
+            "width": 1280,
+            "height": 1280,
             "x": 0,
             "y": 0,
             "pct": false
@@ -529,7 +529,7 @@
             "audioMode": "Stereo",
             "audioMapping": "Audio1",
             "audioOutputAssignments": {
-              "analog1": "Pcm",
+              "analog1": "None",
               "analog2": "None",
               "analog3": "None",
               "usbA": "None",
@@ -551,8 +551,8 @@
               "usb_4": "None",
               "usb_5": "None",
               "usb_6": "None",
-              "spdif": "Pcm",
-              "hdmi": "Pcm",
+              "spdif": "None",
+              "hdmi": "None",
               "hdmi1": "Pcm",
               "hdmi2": "None",
               "hdmi3": "None",
@@ -567,31 +567,31 @@
         }
       },
       "allZones": [
-        "fd4b14e2-42db-4000-aa2f-ce3b0720c000"
+        "3d50de6d-8602-4000-aa8e-fb69a3def000"
       ],
       "zoneLayersById": {
-        "69fb42f4-6f7a-4000-afe3-25847905f000": {
-          "id": "69fb42f4-6f7a-4000-afe3-25847905f000",
+        "adbf81c4-19ae-4000-aa56-396f98c3d000": {
+          "id": "adbf81c4-19ae-4000-aa56-396f98c3d000",
           "type": "Graphics",
           "zoneSequence": [
-            "fd4b14e2-42db-4000-aa2f-ce3b0720c000"
+            "3d50de6d-8602-4000-aa8e-fb69a3def000"
           ]
         },
-        "4016f4cc-1d01-4000-ad26-e2c5a668c000": {
-          "id": "4016f4cc-1d01-4000-ad26-e2c5a668c000",
+        "f8c157fe-51d9-4000-a534-996f47bd1000": {
+          "id": "f8c157fe-51d9-4000-a534-996f47bd1000",
           "type": "Audio",
           "zoneSequence": []
         },
-        "78330aaa-0614-4000-aa4f-033eb5c38000": {
-          "id": "78330aaa-0614-4000-aa4f-033eb5c38000",
+        "f573b5d1-0ceb-4000-a9fd-1133746b2000": {
+          "id": "f573b5d1-0ceb-4000-a9fd-1133746b2000",
           "type": "Invisible",
           "zoneSequence": []
         },
-        "741f190c-c6d3-4000-a56e-cfb67d556000": {
-          "id": "741f190c-c6d3-4000-a56e-cfb67d556000",
+        "cd6f5963-c387-4000-a75b-7dc7922fd000": {
+          "id": "cd6f5963-c387-4000-a75b-7dc7922fd000",
           "type": "Video",
           "zoneSequence": [
-            "fd4b14e2-42db-4000-aa2f-ce3b0720c000"
+            "3d50de6d-8602-4000-aa8e-fb69a3def000"
           ],
           "zoneLayerSpecificProperties": {
             "type": "FourK",
@@ -602,11 +602,11 @@
         }
       },
       "zoneLayerSequence": [
-        "69fb42f4-6f7a-4000-afe3-25847905f000",
-        "741f190c-c6d3-4000-a56e-cfb67d556000"
+        "adbf81c4-19ae-4000-aa56-396f98c3d000",
+        "cd6f5963-c387-4000-a75b-7dc7922fd000"
       ],
       "zoneTagIndices": {
-        "fd4b14e2-42db-4000-aa2f-ce3b0720c000": 2
+        "3d50de6d-8602-4000-aa8e-fb69a3def000": 2
       }
     },
     "screens": {
@@ -615,18 +615,18 @@
     },
     "mediaStates": {
       "mediaStatesById": {
-        "b4a3e21e-ce42-4000-a640-0ef365a9d000": {
-          "id": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+        "6ab22e69-035a-4000-a347-ba890c092000": {
+          "id": "6ab22e69-035a-4000-a347-ba890c092000",
           "name": "State1",
           "tag": "1",
           "container": {
-            "id": "fd4b14e2-42db-4000-aa2f-ce3b0720c000",
+            "id": "3d50de6d-8602-4000-aa8e-fb69a3def000",
             "type": 0
           },
           "contentItem": {
             "name": "",
             "type": "MrssFeed",
-            "dataFeedId": "d095c930-2505-4000-ab51-57d56a1ca000",
+            "dataFeedId": "234037f2-d0d7-4000-ad73-9b89ed55d000",
             "videoPlayerRequired": false
           }
         }
@@ -634,22 +634,22 @@
       "sequencesByParentId": {}
     },
     "events": {
-      "69cf3cf6-59b2-4000-a7b5-09d074b81000": {
-        "id": "69cf3cf6-59b2-4000-a7b5-09d074b81000",
+      "96a6555e-a7ba-4000-a86b-1edb1527b000": {
+        "id": "96a6555e-a7ba-4000-a86b-1edb1527b000",
         "name": "State1_ev",
         "type": "MediaEnd",
-        "mediaStateId": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+        "mediaStateId": "6ab22e69-035a-4000-a347-ba890c092000",
         "disabled": true,
         "data": null
       }
     },
     "transitions": {
       "transitionsById": {
-        "26b172d1-96c1-4000-a2bf-cb8777601000": {
-          "id": "26b172d1-96c1-4000-a2bf-cb8777601000",
+        "d30c8bdb-83be-4000-a088-54d7dff8a000": {
+          "id": "d30c8bdb-83be-4000-a088-54d7dff8a000",
           "name": "State1_tr",
-          "eventId": "69cf3cf6-59b2-4000-a7b5-09d074b81000",
-          "targetMediaStateId": "b4a3e21e-ce42-4000-a640-0ef365a9d000",
+          "eventId": "96a6555e-a7ba-4000-a86b-1edb1527b000",
+          "targetMediaStateId": "6ab22e69-035a-4000-a347-ba890c092000",
           "type": "No effect",
           "duration": 0
         }
@@ -664,10 +664,10 @@
     "nodeApps": {},
     "dataFeeds": {
       "feedsById": {
-        "d095c930-2505-4000-ab51-57d56a1ca000": {
-          "id": "d095c930-2505-4000-ab51-57d56a1ca000",
+        "234037f2-d0d7-4000-ad73-9b89ed55d000": {
+          "id": "234037f2-d0d7-4000-ad73-9b89ed55d000",
           "name": "",
-          "feedSourceId": "aebdba95-66e3-4000-a610-7fb424711000",
+          "feedSourceId": "0ea0e59a-48b6-4000-a6ac-9371085a5000",
           "usage": "MRSS",
           "parserPlugin": "0",
           "autoGenerateUserVariables": false,
@@ -675,8 +675,8 @@
         }
       },
       "sourcesById": {
-        "aebdba95-66e3-4000-a610-7fb424711000": {
-          "id": "aebdba95-66e3-4000-a610-7fb424711000",
+        "0ea0e59a-48b6-4000-a6ac-9371085a5000": {
+          "id": "0ea0e59a-48b6-4000-a6ac-9371085a5000",
           "type": "URLDataFeed",
           "url": {
             "params": [
@@ -713,12 +713,12 @@
     "assetMap": {},
     "thumbnail": {
       "type": "image/jpeg",
-      "data": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCABwAMgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAgHBgUJ/8QAPhAAAQAFBggOAgAHAAAAAAAAAAEDBQcIAgQZV6bUBgkRFTiFtfATFhghIik2SVZYd5O00hIUIzFBVFVhc//EABoBAQACAwEAAAAAAAAAAAAAAAACBAEDBgX/xAAzEQABAgMDBwwDAQAAAAAAAAAAAQIDBBRTkdERMTRBUXKxBhITITNCYWJzgZKhBcLiMv/aAAwDAQACEQMRAD8A62HKHKDTkaYPRBRBYG/3ed2vnFq/5VdNFH8CaLf+MjoSP9p/qkdTRvxqHc0b+KixjoosVyOe5z3/AO3J1OyIiJk8F2kXv5hHPU0b8ah1NG/GosYGqo88T5/ya+n8COepo341DqaN+NRYwFR54nz/AJHT+BHPU0b8ah1NG/GosYCo88T5/wAjp/Aw50ELmLef0yJ83XT4DZ8mLNnKJpOluc29NeDWpkolIk/ivWyEp6KUJyoQlB31HLBpU5aFq3k86Cvti/v1AWfHVlSFOamY8GKrGRHZOrO5dmU3ZcpNlHLBpU5aFq3kUcsGlTloWreSkwaK2ZtHXriCbKOWDSpy0LVvIo5YNKnLQtW8lJgVszaOvXEE2UcsGlTloWreRRywaVOWhat5KTArZm0deuIJso5YNKnLQtW8ijlg0qctC1byUmBWzNo69cQTZRywaVOWhat5FHLBpU5aFq3kpMCtmbR164gmyjlg0qctC1byKOWDSpy0LVvJSYFbM2jr1xBNlHLBpU5aFq3kUcsGlTloWreSkwK2ZtHXriD5/RpwWQzulhnwyeC752uam+ys3fqTvPLQX8HwrQm6qX0Fq+VITlVrJaOeSnJlyoyJQhINuxjWho8LVO1ZoDqvwcWJGl3OiOVV5y51y6kJITZ3NG/iosYjnuaN/FRYx5Ex3/Uf+pXj6gACqaAAAAAADO4K+2L+/UBZ8dWVIS3BX2xf36gLPjqypCvPduvtwQuJmAAKhkAAAAAAAAAAAAAAAAAAmzGNaGjwtU7VmgGMa0NHhap2rNAdhyf0V28vBCSE2dzRv4qLGI57mjfxUWMeZMd/1H/qV4+oAAqmgAAAAAAzuCvti/v1AWfHVlSEtwV9sX9+oCz46sqQrz3br7cELiZgACoZAAAAAAAAAAAAAAAAAAJsxjWho8LVO1ZoBjGtDR4WqdqzQHYcn9FdvLwQkhNnc0b+KixiOe5o38VFjHmTHf8AUf8AqV4+oAAqmgAAAAAAzuCvti/v1AWfHVlSEtwV9sX9+oCz46sqQrz3br7cELiZgACoZAAAAAAAAAAAAAAAAAAJsxjWho8LVO1ZoBjGtDR4WqdqzQHYcn9FdvLwQkhwMLjoGQ/rFvYMunbrVnjNmLc/d4WdTSTJStV8C3ly+T+KJSEo55SpCE5UfySk63kV4Yebl6vvTf6Ho4uXQ0d7rbas7KTPAmZqLBmIjGL1c5y5k2+JFSW+RXhh5uXq+9N/oORXhh5uXq+9N/oVIDTXR9v0mBjIhLfIrww83L1fem/0HIrww83L1fem/wBCpAK6Pt+kwGRCW+RXhh5uXq+9N/oORXhh5uXq+9N/oVIBXR9v0mAyIZJD9D9NnCzbCVWqw3a2FE4woaMhpzyeNNWrkr0r0K0K0pSlWhCJWVEmSnnRly5UpSnLza2AV4kR0VyvevWZAAIAAAAAAAAAAAAAAAAAAAmzGNaGjwtU7VmgGMa0NHhap2rNAdhyf0V28vBCSDFy6GjvdbbVnZSZNmLl0NHe622rOykzmZ3Som8vFSKgAFUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE2YxrQ0eFqnas0AxjWho8LVO1ZoDsOT+iu3l4ISQYuXQ0d7rbas7KTPn9BZGnDO6WGfA13zwXlZqb7Kzj+3NMzNBfwfCtCcLZHTVKJUhOVWskJ5pScmXInIlCUG3UjUGlcdnmrdjwZyTmHTERzYblRXLqXaYKTBNlI1BpXHZ5q3YUjUGlcdnmrdivRTNm65cDBSYJspGoNK47PNW7Ckag0rjs81bsKKZs3XLgCkwTZSNQaVx2eat2FI1BpXHZ5q3YUUzZuuXAFJgmykag0rjs81bsKRqDSuOzzVuwopmzdcuAKTBNlI1BpXHZ5q3YUjUGlcdnmrdhRTNm65cAUmCbKRqDSuOzzVuwpGoNK47PNW7CimbN1y4ApME2UjUGlcdnmrdhSNQaVx2eat2FFM2brlwBSYJspGoNK47PNW7Ckag0rjs81bsKKZs3XLgCkwTZSNQaVx2eat2FI1BpXHZ5q3YUUzZuuXAFJgmykag0rjs81bsKRqDSuOzzVuwopmzdcuAKTBNlI1BpXHZ5q3YUjUGlcdnmrdhRTNm65cAMY1oaPC1TtWaAxGNONOGd7UM+GTvnfPKzq32rm79SaZmaCjhOCaE3Wy+mtUSZCMitXLTzykZcmRGVKUIB1X4OFEgy7mxGqi85c6ZNSEkP/Z",
+      "data": "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",
       "size": {
         "width": 200,
-        "height": 112
+        "height": 150
       },
-      "hash": "6e22571e6fa772128c060de6ec1cd8c35ee6e99d"
+      "hash": "77b2eb5d4bcd464ee59fa4065b51b4f3be5bdcaa"
     }
   },
   "selection": {
@@ -729,8 +729,8 @@
       "selectableType": "PRESENTATION"
     },
     "selectionEntities": {
-      "fd4b14e2-42db-4000-aa2f-ce3b0720c000": {
-        "id": "fd4b14e2-42db-4000-aa2f-ce3b0720c000",
+      "3d50de6d-8602-4000-aa8e-fb69a3def000": {
+        "id": "3d50de6d-8602-4000-aa8e-fb69a3def000",
         "type": "ZONE",
         "selectableType": "ZONE",
         "selectableData": null
@@ -738,7 +738,7 @@
     },
     "prevSelectionEntities": {},
     "isEventAdvancedEnabled": false,
-    "activeAssetMenuTab": "WIDGETS"
+    "activeAssetMenuTab": "ASSETS"
   },
   "interactiveCanvas": {
     "statePositionById": {},
